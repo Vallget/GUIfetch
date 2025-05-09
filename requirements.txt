@@ -3,3 +3,4 @@ Pillow
 py-cpuinfo
 psutil
 pywin32
+screeninfo
